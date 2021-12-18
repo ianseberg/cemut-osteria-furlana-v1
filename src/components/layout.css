@@ -7,3 +7,5 @@
 body {
     font-family: 'Caveat', cursive;
 }
+
+@import '~sal.js/sal.css';

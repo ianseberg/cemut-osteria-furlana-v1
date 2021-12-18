@@ -33,14 +33,14 @@ const IconWrapper = styled.div`
     .facebook-icon {
         color: #3b579d;
     }
-    .twitter-icon {
-        color: #3ab7f0;
+    .map-icon {
+        color: #8bc34a;
     }
     .instagram-icon {
         color: #da5f53;
     }
     .icon:hover {
-        color: ${styles.colors.mainYellow};
+        color: ${styles.colors.mainRed};
     }
     display: none;
     @media (min-width: 768px) {

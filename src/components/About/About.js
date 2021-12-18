@@ -6,19 +6,19 @@ const About = () => {
     return (
         <Section>
             <AboutWrapper>
-                <p>At Restaurant, we follow a simple mantra - "Strive for continuous improvement and make
-                    no compromise on quality!"
+                <p>Al Cemût seguiamo un semplice mantra: "Sforzati per migliorare continuamente e non fare
+                    compromessi sulla qualità!"
                 </p>
-                <p>Initially we were just a small unit with a handful of employees. Today, 13 years later,
-                    we have established 6 successful outlets in the city with a strong workforce of about
-                    500 people.
-                </p>
-                <p>
-                Providing quality food in perfect hygienic conditions remains our top most priority.
+                <p>Inizialmente eravamo solo una piccola unità con una manciata di dipendenti. Oggi, 3 anni dopo,
+                     abbiamo stabilito una presenza di successo in città con una forte forza lavoro di circa
+                     15 persone.
                 </p>
                 <p>
-                Our aim is to be easy on the pocket, satiate the ever demanding palette and ensure
-                that each customer comes back for more.
+                Fornire cibo di qualità in perfette condizioni igieniche rimane la nostra massima priorità.
+                </p>
+                <p>
+                Il nostro obiettivo è essere leggeri sulle tasche, saziare un range sempre più esigente e garantire
+                 che ogni cliente tornerà per altro.
                 </p>
             </AboutWrapper>
         </Section>

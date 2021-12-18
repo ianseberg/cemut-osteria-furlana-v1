@@ -41,7 +41,7 @@ class Footer extends Component {
 
 const FooterWrapper = styled.footer`
     padding: 2rem 0;
-    background: ${styles.colors.mainBlack};
+    background: ${styles.colors.mainYellow};
 .icons {
     width: 10rem;
     display: flex;
@@ -49,13 +49,13 @@ const FooterWrapper = styled.footer`
     margin: 0 auto;
 }
 .icon {
-    color: ${styles.colors.mainWhite};
+    color: ${styles.colors.mainRed};
     font-size: 1.3rem;
     ${styles.transObject({})};
     &:hover { color: ${styles.colors.mainPrimary};  }
 }
 .copyright {
-    color: ${styles.colors.mainWhite};
+    color: ${styles.colors.mainRed};
     text-transform: capitalize;
     text-align: center;
     margin: 1rem 0;
@@ -63,12 +63,12 @@ const FooterWrapper = styled.footer`
 .title {
     text-align: center;
     width: 12rem;
-    color: ${styles.colors.mainYellow};
+    color: ${styles.colors.mainRed};
     text-transform: uppercase;
     padding: 0.3rem 1rem;
     margin: 0 auto 2rem auto;
     font-size: 1.5rem;
-    ${styles.border({ color: `${styles.colors.mainYellow}` })}
+    ${styles.border({ color: `${styles.colors.mainRed}` })}
 }
 `
 

@@ -17,7 +17,7 @@ const TitleWrapper = styled.div`
     ${styles.textSlanted};
     ${styles.letterSpacing({ spacing: '0.3rem' })};
     font-size: 2rem;
-    color: ${styles.colors.mainYellow};
+    color: ${styles.colors.mainRed};
   }
   h1 {
     ${styles.letterSpacing({ spacing: '0.3rem' })};
@@ -27,6 +27,6 @@ const TitleWrapper = styled.div`
   .underline {
     width: 5rem;
     height: 0.2rem;
-    background: ${styles.colors.mainYellow};
+    background: ${styles.colors.mainRed};
     margin: 0.5rem auto;
   }`

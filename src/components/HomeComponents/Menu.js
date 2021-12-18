@@ -29,7 +29,7 @@ const Menu = () => {
     console.log(edges);
     return (
         <Section>
-            <Title title="featured items" message="little taste" />
+            <Title title="prodotti in evidenza" message="degustazioni" />
             <ProductList>
                 {edges.map(item => {
                     return <Product key={item.node.id} product={item.node} />
