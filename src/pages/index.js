@@ -7,7 +7,7 @@ import QuickInfo from '../components/HomeComponents/QuickInfo'
 import Gallery from '../components/HomeComponents/Gallery'
 import Menu from '../components/HomeComponents/Menu'
 import sal from 'sal.js'
-
+ 
 sal();
 
 const IndexPage = () => (

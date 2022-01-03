@@ -22,7 +22,7 @@ const Product = ({ product }) => {
                     data-item-price={price}
                     data-item-image={fixed.src}
                     data-item-url="https://restaurant-bangalore.netlify.app/"
-                >Order</SectionButton>
+                >Ordina</SectionButton>
             </div>
         </ProductWrapper>
     )

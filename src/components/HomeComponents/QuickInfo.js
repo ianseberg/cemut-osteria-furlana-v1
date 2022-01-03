@@ -14,7 +14,7 @@ export default class QuickInfo extends Component {
                     Cemût nasce dalla volontà di portare le gioia della tavola friulana e la sua filosofia tramite una selezione di prodotti da partner riconosciuti in Friuli.
                     </p>
                     <Link to="/about/" style={{ textDecoration: 'none' }}>
-                        <SectionButton style={{ margin: '2rem auto' }}>about</SectionButton>
+                        <SectionButton style={{ margin: '2rem auto' }}>Scopri di più</SectionButton>
                     </Link>
                 </QuickInfoWrapper>
             </Section>
