@@ -9,7 +9,7 @@ const AboutPage = () => (
     <Layout>
         <SEO title="About" />
         <PageHeader img={aboutImg}>
-            <Banner title="chi siamo" subtitle="qualcosa su di noi" />
+            <Banner title="i nostri partner" subtitle="qualcosa su di noi" />
         </PageHeader>
         <About />
     </Layout>

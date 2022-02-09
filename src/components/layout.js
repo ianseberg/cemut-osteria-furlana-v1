@@ -22,7 +22,7 @@ const GlobalStyle = createGlobalStyle`
   box-sizing: border-box;
 }
 body {
-  font-family: 'Julee', sans-serif;
+  font-family: 'Reckless Sans Bold', sans-serif;
   color:#262626;
   background:#fff;
 }

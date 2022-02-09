@@ -15,12 +15,12 @@ class NavbarLinks extends Component {
             {
                 id: 1,
                 path: '/about/',
-                name: 'about',
+                name: 'i nostri partner',
             },
             {
                 id: 2,
                 path: '/contact/',
-                name: 'contact',
+                name: 'contattaci',
             },
         ],
     }
